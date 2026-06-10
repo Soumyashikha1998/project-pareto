@@ -55,7 +55,6 @@ from pareto.strategic_water_management.eev_tool import (
     get_first_stage_solution,
 )
 
-
 ### Step 1. Load expected-value data
 with resources.path(
     "pareto.case_studies",

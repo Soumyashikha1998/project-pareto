@@ -39,7 +39,6 @@ from pareto.utilities.results import (
 )
 from importlib import resources
 
-
 with resources.path(
     "pareto.case_studies",
     "tssp_discap_sc1.xlsx",
